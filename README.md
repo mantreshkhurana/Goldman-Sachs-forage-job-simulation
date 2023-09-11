@@ -40,8 +40,6 @@ Sincerely,
 
 Mantresh Kumar
 B.Tech Computer Science and Engineering
-
-Security Algorithms used:
 ```
 
 ## Requirements
